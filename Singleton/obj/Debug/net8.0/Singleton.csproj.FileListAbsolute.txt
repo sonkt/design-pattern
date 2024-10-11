@@ -1,0 +1,14 @@
+H:\SonKT\Code\design-pattern\Singleton\bin\Debug\net8.0\Singleton.exe
+H:\SonKT\Code\design-pattern\Singleton\bin\Debug\net8.0\Singleton.deps.json
+H:\SonKT\Code\design-pattern\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+H:\SonKT\Code\design-pattern\Singleton\bin\Debug\net8.0\Singleton.dll
+H:\SonKT\Code\design-pattern\Singleton\bin\Debug\net8.0\Singleton.pdb
+H:\SonKT\Code\design-pattern\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+H:\SonKT\Code\design-pattern\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+H:\SonKT\Code\design-pattern\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+H:\SonKT\Code\design-pattern\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+H:\SonKT\Code\design-pattern\Singleton\obj\Debug\net8.0\Singleton.dll
+H:\SonKT\Code\design-pattern\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+H:\SonKT\Code\design-pattern\Singleton\obj\Debug\net8.0\Singleton.pdb
+H:\SonKT\Code\design-pattern\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+H:\SonKT\Code\design-pattern\Singleton\obj\Debug\net8.0\ref\Singleton.dll
