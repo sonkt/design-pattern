@@ -1,0 +1,15 @@
+H:\SonKT\Code\design-pattern\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+H:\SonKT\Code\design-pattern\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+H:\SonKT\Code\design-pattern\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+H:\SonKT\Code\design-pattern\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+H:\SonKT\Code\design-pattern\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+H:\SonKT\Code\design-pattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+H:\SonKT\Code\design-pattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+H:\SonKT\Code\design-pattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+H:\SonKT\Code\design-pattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+H:\SonKT\Code\design-pattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.sourcelink.json
+H:\SonKT\Code\design-pattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+H:\SonKT\Code\design-pattern\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+H:\SonKT\Code\design-pattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+H:\SonKT\Code\design-pattern\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+H:\SonKT\Code\design-pattern\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll
