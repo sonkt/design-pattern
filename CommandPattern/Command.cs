@@ -1,7 +1,6 @@
-namespace DesignPattern
+namespace CommandPattern;
+
+public interface Command
 {
-    public interface Command
-    {
-        void Execute();
-    }
+    void Execute();
 }

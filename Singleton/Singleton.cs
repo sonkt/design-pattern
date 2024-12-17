@@ -1,5 +1,5 @@
-namespace DesignPattern
-{
+namespace Singleton;
+
     public class Singleton
     {
         // Biến chứa object để đảm bảo tính duy nhất
@@ -44,4 +44,3 @@ namespace DesignPattern
             Console.WriteLine($"Đây là tên của Object: {_name}");
         }
     }
-}

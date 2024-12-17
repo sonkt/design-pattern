@@ -1,4 +1,4 @@
-namespace DesignPattern
+namespace Strategy
 {
     /// <summary>
     /// Interface khai báo các phương thức của thuật toán

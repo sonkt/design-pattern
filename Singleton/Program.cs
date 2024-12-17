@@ -1,9 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-namespace DesignPattern
+namespace Singleton
 {
-    class Program
+    static class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Singleton instance1 = Singleton.Instance;

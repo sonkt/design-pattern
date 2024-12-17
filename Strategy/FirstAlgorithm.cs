@@ -1,4 +1,4 @@
-namespace DesignPattern
+namespace Strategy
 {
     /// <summary>
     /// Thuật toán thứ nhất

@@ -1,10 +1,9 @@
-namespace DesignPattern
+namespace FactoryMethod;
+
+public class CarFactory : VehicleFactory
 {
-    public class CarFactory : VehicleFactory
+    public override Vehicle CreateVehicle(string name)
     {
-        public override Vehicle CreateVehicle(string name)
-        {
-            return new Car().SetName(name);
-        }
+        return new Car().SetName(name);
     }
 }

@@ -1,19 +1,18 @@
-namespace DesignPattern
+namespace Observer;
+
+public class Printer : IObserver
 {
-    public class Printer : IObserver
+    private string _name;
+    public Printer(string name)
     {
-        private string _name;
-        public Printer(string name)
-        {
-            _name = name;
-        }
-        /// <summary>
-        /// Action của Observer
-        /// </summary>
-        /// <param name="message"></param>
-        public void DisplayMessage(string message)
-        {
-            Console.WriteLine("[x] Máy in {0} in nội dung: {1} ra giấy", _name, message);
-        }
+        _name = name;
+    }
+    /// <summary>
+    /// Action của Observer
+    /// </summary>
+    /// <param name="message"></param>
+    public void DisplayMessage(string message)
+    {
+        Console.WriteLine("[x] Máy in {0} in nội dung: {1} ra giấy", _name, message);
     }
 }

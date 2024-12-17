@@ -1,4 +1,4 @@
-namespace DesignPattern
+namespace Strategy
 {
     /// <summary>
     /// Lớp điều khiển và thực thi các thuật toán
